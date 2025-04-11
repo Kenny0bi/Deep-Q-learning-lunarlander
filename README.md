@@ -62,4 +62,8 @@ lunar_lander_transitions.csv: Logged state transitions
 
 q_table.csv: Exported Q-table
 
+✍️ Author
+Kehinde Obidele
+Graduate Student | Health Informatics | Reinforcement Learning
+
 
